@@ -1,4 +1,5 @@
 Test for a rebase.
+getTrackingBranchCommit
 
 line 0
 line 0.1
