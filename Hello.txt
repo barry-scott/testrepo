@@ -1,3 +1,4 @@
+The world changes.
 Test for a rebase.
 getTrackingBranchCommit
 
