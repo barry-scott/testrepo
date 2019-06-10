@@ -1,3 +1,7 @@
+The world changes.
+Test for a rebase.
+getTrackingBranchCommit
+
 line 0
 line 0.1
 First line 25 march 2016 at 18:32
@@ -28,3 +32,11 @@ Wed 26 Oct 2016 12:56:37 BST
 Wed 26 Oct 2016 12:59:52 BST
 Wed 26 Oct 2016 12:59:57 BST
 Here is a change.
+Sun 12 Feb 17:34:19 GMT 2017
+Sun 12 Feb 17:34:59 GMT 2017
+Sun 12 Feb 17:35:00 GMT 2017
+Sun 12 Feb 17:35:00 GMT 2017
+Sun 26 Mar 12:23:10 BST 2017
+Sun 26 Mar 12:25:23 BST 2017
+Sun 26 Mar 12:26:29 BST 2017
+Sun 26 Mar 12:34:26 BST 2017
