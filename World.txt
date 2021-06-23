@@ -2,6 +2,7 @@ rebase in world
 for rebase test.
 getTrackingBranchCommit
 
+A line for testing.
 This is the world
 and an change to push
 testing 1
